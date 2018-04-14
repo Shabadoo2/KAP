@@ -108,6 +108,7 @@
     </string>
 
     <!-- Strings related to Main Activity -->
+    <string name="branding">Kern Air</string>
     <string name="map_info">Map info</string>
     <string name="resources_info">Resource info</string>
     <string name="settings_info">settings info</string>
