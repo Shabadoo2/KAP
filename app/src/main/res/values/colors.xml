@@ -9,10 +9,11 @@
     <color name="transparent">#005dade2</color>
 
     <!-- AQI colors -->
-    <color name="good">#7FA94C</color>
-    <color name="moderate">#FFFF00</color>
-    <color name="unhealthyForSensitive">#FF9900</color>
-    <color name="unhealthy">#FF3333</color>
-    <color name="veryUnhealthy">#572D57</color>
-    <color name="hazardous">#800000</color>
+    <!-- All colors have an 88% opacity -->
+    <color name="good">#e07FA94C</color>
+    <color name="moderate">#e0FFFF00</color>
+    <color name="unhealthyForSensitive">#e0FF9900</color>
+    <color name="unhealthy">#e0FF3333</color>
+    <color name="veryUnhealthy">#e0572D57</color>
+    <color name="hazardous">#e0800000</color>
 </resources>
